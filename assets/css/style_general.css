@@ -1,0 +1,58 @@
+.container .btn_search{
+    position: absolute;
+    padding: 0px;
+    right: 1px;
+    cursor: pointer;
+}
+.product-list .list-cart-general{
+    font-size: 12px;
+    margin:0px!important;
+    padding: 0px!important;
+}
+.product-list .list-item-cart{
+    font-size: 12px!important;
+    list-style: none;
+    padding: 0px 10px;
+}
+.single_add_to_cart_button_variable{
+    width: 100%;
+}
+.variables-list .list-item{
+    text-transform: capitalize;
+    font-size: 12px;
+}
+.container .description-reseller-list{
+    position: absolute;
+    text-align: right;
+    background: #fff;
+    padding: 5px;
+    width: 95%;
+    top: 48px;
+    left: -45px;
+    z-index: 99;
+}
+.cafe-mask-close{
+    z-index: 8888!important;
+}
+.cafe-wrap-search:not(.normal) .cafe-search-form{
+    z-index: 9999!important;
+}
+.cafe-wrap-search .cafe-search-close{
+    z-index: 99999999!important;
+}
+.is-sticky{
+    z-index: 8888!important;
+}
+.cafe-canvas-cart-content{
+    z-index: 9999999!important;
+}
+.container .image-reseller{
+    position: relative;
+    left: 5px;
+    z-index: 999;
+    top: 24px;
+    margin-bottom: 5px;
+}
+.cafe-account-modal{
+    z-index:99999!important
+}
